@@ -8,7 +8,6 @@ int main() {
     vector <int> wektor;
     cout << "Podaj ile elementow" << endl;
     int elementy =0;
-
     cin >> elementy;
     int a;
     for (int i =0; i < elementy; i++) {
